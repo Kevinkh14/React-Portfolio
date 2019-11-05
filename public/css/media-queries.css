@@ -341,7 +341,11 @@
 /* mobile narrow
   -------------------------------------------------------------------------- */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 500px) {
+   .bars .skills{
+      /* display: flex; */
+      flex-direction: column;
+   }
 
    /* mobile navigation
    -------------------------------------------------------------------- */
@@ -369,7 +373,7 @@
    /* social links */
    footer .social-links { font-size: 20px; }
    footer .social-links li { margin-left: 14px; }   
-
+  
 }
 
 
