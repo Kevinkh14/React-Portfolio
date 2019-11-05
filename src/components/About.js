@@ -8,7 +8,7 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+               <img className="profile-pic"  src="https://res.cloudinary.com/kevin14/image/upload/v1571962422/iangmjh94gygnyf3jbtk.jpg" alt="" />
 
             </div>
 
@@ -23,7 +23,7 @@ export default class About extends Component {
 
                <div className="row">
 
-                  <div className="columns contact-details">
+                  {/* <div className="columns contact-details">
 
                   <h2>Contact Details</h2>
                   <p className="address">
@@ -35,7 +35,7 @@ export default class About extends Component {
                     <br></br>
                     <span>{resumeData.website}</span>
        					   </p>
-                  </div>
+                  </div> */}
                </div>
             </div>
          </div>
