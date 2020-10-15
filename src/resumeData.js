@@ -41,6 +41,13 @@ let resumeData = {
     "website":"https://github.com/Kevinkh14",
     "education":[
       {
+        "UniversityName":"Richland College",
+        "specialization":"Computer Science major",
+        "MonthOfPassing":"August 2017-May",
+        "YearOfPassing":"2019",
+        "Achievements":``
+      },
+      {
         "UniversityName":"Devmounatain",
         "specialization":"Web development bootcamp",
         "MonthOfPassing":"August-November",
@@ -106,25 +113,37 @@ let resumeData = {
         "name":"Worp.space",
         "description":"",
         "imgurl":"https://res.cloudinary.com/kevin14/image/upload/v1571149507/mgooimewonmen57gm9yk.png",
-        "link": "http://worp.space/#/"
+        "link": "https://github.com/Kevinkh14/Personal-Project"
       },
       {
         "name":"Worp.space",
         "description":"",
         "imgurl":"https://res.cloudinary.com/kevin14/image/upload/v1572366685/qj6tkkcnvvldpbjttyhf.png",     
-        "link": "http://worp.space/#/"              
+        "link": "https://github.com/Kevinkh14/Personal-Project"              
       },
       {
         "name":"Trakd.net",
         "description":"",  
         "imgurl":"https://res.cloudinary.com/kevin14/image/upload/v1572367346/fwnrjbyyghltjqrl6wpx.png",
-        "link": "https://trakd.net/#/"
+        "link": "https://github.com/dm-group-trakd/trakd"
       },
       {
         "name":"Trakd.net",
         "description":"",
         "imgurl":"https://res.cloudinary.com/kevin14/image/upload/v1572367248/fdulxwg6alubfdgvajxu.png",
-        "link": "https://trakd.net/#/"
+        "link": "https://github.com/dm-group-trakd/trakd"
+      },
+      {
+        "name":"matchfire assesment",
+        "description":"",
+        "imgurl":"https://res.cloudinary.com/kevin14/image/upload/v1602722314/Match_gumwfr.png",
+        "link": "https://github.com/Kevinkh14/matchfire-assesment/"
+      },
+      {
+        "name":"calculator",
+        "description":"",
+        "imgurl":"https://res.cloudinary.com/kevin14/image/upload/v1602722320/Calc_o6kieq.png",
+        "link": "https://github.com/Kevinkh14/calculator"
       }
     ],
     "testimonials":[
